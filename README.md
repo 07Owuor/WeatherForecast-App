@@ -1,4 +1,4 @@
-#mediamax_test
+
 The application contains three components:
 To Do List
 Weather Forecast 
